@@ -41,5 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app needs your location if you want to be a MountainMan!</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app needs to access your library for MountainMan photos!</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app needs to access your camera for MountainMan photos!</string>
 </dict>
 </plist>
